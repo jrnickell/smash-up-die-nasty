@@ -60,7 +60,7 @@ _Kicking_ - PAT Made 1 point; FG Missed -1 point; FG Made (0-39 yards) 3 points;
 
 ## Commissioner
 
-Our goal is to have a fair, balanced league consisting of highly active and competitive owners. The commissioner / commissioner-committee will act in the best interest of the league at all times. The commissioner / commissioner-committee accepts the following responsibilities: Interpret and enforce rules. Settle all disputes between owners. Preside over draft and league set up. Removing the commissioner is a serious situation and should be considered a last resort. Should the need arise for the commissioner / commissioner-committee member to be removed; 3/4 majority (8 votes) would be required.
+Our goal is to have a fair, balanced league consisting of highly active and competitive owners. The commissioner will act in the best interest of the league at all times. Removing the commissioner is a serious situation and should be considered a last resort. Should the need arise for the commissioner to be removed; 3/4 majority (8 votes) would be required.
 
 If at any time an owner violates league rules or engages in conduct judged by the Commissioner as detrimental to the league in any way, the Commissioner has both the authority and obligation to act to protect the league and to act in its best interests. The Commissioner may impose sanctions against an owner or team found to have violated league rules or conducted themselves in a manner detrimental to the league. All Executive Council members are subject to the same penalties as the rest of the league. It is expected that Commissioner’s use of sanctions will be rare, appropriate to the offense, proportionate to its severity, and not undertaken lightly.
 
@@ -87,8 +87,6 @@ The Commissioner may impose and enforce sanctions at any time, including retroac
 The Commissioners will act in good faith and at all times in the best interest of the league to maintain a fun, fair, competitive environment.
 
 The Commissioner-Committee will have the final authority over all actions, activities, votes, rule changes, and any other thing necessary to effectively run a good league while respecting the rights of its owners. In the rare instance that a situation arises which is not covered by the bylaws, the Commissioner-Committee reserves the right to rule on the issue in the best interest of the league. This includes times when a rule is not explicitly stated (such as a tiebreaker) but must be ruled on to move league business forward. Commissioner rulings are final, binding and cannot be appealed. The intent of this clause is not to grant arbitrary, unchecked Roger Goodell-like power, but rather to empower and require the Commissioners via these bylaws to take fair and necessary executive action for the good of the league.
-
-The league shall be governed by a Commissioner-Committee. 
 
 The role of the Commissioners are to:
 
