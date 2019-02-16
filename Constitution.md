@@ -38,7 +38,7 @@ All unselected players will be available for blind bidding using the owner's Fre
 
 ## Trades
 
-All trades are final when accepted by both owners and have been executed on the league website. The trade deadline will occur after week 10 of the NFL regular season. Off-season trading is allowed. Off-season trading can begin as early as directly after the real life Super Bowl. If an owner thinks a deal is potentially collusion; he has 48 hours to bring that to the attention of the commissioner. The commissioner will then make a decision regarding the validity of the trade. Owners are encouraged to post on the league Slack in order to explain and discuss any recent trades.
+All trades are final when accepted by both owners and have been executed in the host application. The trade deadline will occur after week 10 of the NFL regular season. Off-season trading is allowed. Off-season trading can begin as early as directly after the real life Super Bowl. If an owner thinks a deal is potentially collusion; he has 48 hours to bring that to the attention of the commissioner. The commissioner will then make a decision regarding the validity of the trade. Owners are encouraged to post on the league Slack in order to explain and discuss any recent trades.
 
 Future draft picks may only be traded for the following year, starting with the NFL Super Bowl. So after the Super Bowl in early 2020, you will be able to trade draft picks for the 2021 draft and you would already have access to the picks for the 2020 draft.
 
