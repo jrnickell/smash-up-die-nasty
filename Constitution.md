@@ -4,7 +4,7 @@ Smash Up Die Nasty (SUDN) is a themed fantasy football dynasty league. This cons
 
 ## Expected Owner Conduct
 
-All owners are expected to carry themselves in a respectful manner that would not harm other owners or the league in general. Bragging and "trash talk" is an expected and interesting part of the game, but should be handled in adult fashion. The commissioner/co-commissioners will draw the line between comments made in good fun and inflammatory comments that could harm the good of the league. Violation of this could result in ejection from the league.
+All owners are expected to carry themselves in a respectful manner that would not harm other owners or the league in general. Bragging and "trash talk" is an expected and interesting part of the game, but should be handled in adult fashion. The commissioner / commissioner-committee will draw the line between comments made in good fun and inflammatory comments that could harm the good of the league. Violation of this could result in ejection from the league.
 
 ## Activity & Etiquette Rules
 
@@ -60,7 +60,7 @@ _Kicking_ - PAT Made 1 point; FG Missed -1 point; FG Made (0-39 yards) 3 points;
 
 ## Commissioner
 
-Our goal is to have a fair, balanced league consisting of highly active and competitive owners. The commissioner/commissioner committee will act in the best interest of the league at all times. The commissioner/ccommissioner committee accepts the following responsibilities: Interpret and enforce rules. Settle all disputes between owners. Preside over draft and league set up. Removing the commissioner is a serious situation and should be considered a last resort. Should the need arise for the commissioner/commissioner committee member to be removed; 3/4 majority (8 votes) would be required.
+Our goal is to have a fair, balanced league consisting of highly active and competitive owners. The commissioner / commissioner-committee will act in the best interest of the league at all times. The commissioner / commissioner-committee accepts the following responsibilities: Interpret and enforce rules. Settle all disputes between owners. Preside over draft and league set up. Removing the commissioner is a serious situation and should be considered a last resort. Should the need arise for the commissioner / commissioner-committee member to be removed; 3/4 majority (8 votes) would be required.
 
 If at any time an owner violates league rules or engages in conduct judged by the Commissioner as detrimental to the league in any way, the Commissioner has both the authority and obligation to act to protect the league and to act in its best interests. The Commissioner may impose sanctions against an owner or team found to have violated league rules or conducted themselves in a manner detrimental to the league. All Executive Council members are subject to the same penalties as the rest of the league. It is expected that Commissioner’s use of sanctions will be rare, appropriate to the offense, proportionate to its severity, and not undertaken lightly.
 
@@ -82,18 +82,18 @@ Any combination of the above sanctions deemed appropriate by the Commissioner.
 
 The Commissioner may impose and enforce sanctions at any time, including retroactively. The Commissioner may use an owner’s past record in considering the length or severity of sanctions.
 
-## Commissioner Committee
+## Commissioner-Committee
 
 The Commissioners will act in good faith and at all times in the best interest of the league to maintain a fun, fair, competitive environment.
 
-The Commissioner Committee will have the final authority over all actions, activities, votes, rule changes, and any other thing necessary to effectively run a good league while respecting the rights of its owners. In the rare instance that a situation arises which is not covered by the bylaws, the Commissioner Committee reserves the right to rule on the issue in the best interest of the league. This includes times when a rule is not explicitly stated (such as a tiebreaker) but must be ruled on to move league business forward. Commissioner rulings are final, binding and cannot be appealed. The intent of this clause is not to grant arbitrary, unchecked Roger Goodell-like power, but rather to empower and require the Commissioners via these bylaws to take fair and necessary executive action for the good of the league.
+The Commissioner-Committee will have the final authority over all actions, activities, votes, rule changes, and any other thing necessary to effectively run a good league while respecting the rights of its owners. In the rare instance that a situation arises which is not covered by the bylaws, the Commissioner-Committee reserves the right to rule on the issue in the best interest of the league. This includes times when a rule is not explicitly stated (such as a tiebreaker) but must be ruled on to move league business forward. Commissioner rulings are final, binding and cannot be appealed. The intent of this clause is not to grant arbitrary, unchecked Roger Goodell-like power, but rather to empower and require the Commissioners via these bylaws to take fair and necessary executive action for the good of the league.
 
-The league shall be governed by a Commissioner Committee. 
+The league shall be governed by a Commissioner-Committee. 
 
 The role of the Commissioners are to:
 
 * Maintain league logistics
-* Help set lineups and perform team/roster moves for owners if requested
+* Help set lineups and perform team / roster moves for owners if requested
 * Ensure that the league calendar is updated and followed
 * Facilitate drafts
 * Apply penalties for owner misconduct, rules violations, or actions against the league as voted on by the Executive Council
