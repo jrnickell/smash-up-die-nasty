@@ -75,7 +75,7 @@ Commissioner's sanctions include but are not limited to the following:
 * Suspension of an owner or co-owners for a specified period, with their team forfeiting all games occurring during the suspension
 * Forced waiving of players
 * Loss of future draft picks
-* Loss of Waiver Priority
+* Loss of waiver priority
 * Removal of an owner from the league
 
 Any combination of the above sanctions deemed appropriate by the Commissioner.
@@ -94,8 +94,8 @@ The role of the Commissioners are to:
 * Help set lineups and perform team / roster moves for owners if requested
 * Ensure that the league calendar is updated and followed
 * Facilitate drafts
-* Apply penalties for owner misconduct, rules violations, or actions against the league as voted on by the Executive Council
-* Void trades if rules are clearly violated (tradebacks, roster limits, etc.)
+* Apply penalties for owner misconduct, rule violations, or actions against the league as voted on by league owners
+* Void trades if rules are clearly violated (collusion, roster limits, etc.)
 * Control abandoned or otherwise orphaned franchises and seek new ownership
 
 ## Rule Changes
@@ -103,4 +103,3 @@ The role of the Commissioners are to:
 Rule changes can be proposed at any time, by anyone. Rule changes will only be voted on during the off-season and must have a majority (7 votes) to pass. Rule change discussions will be discussed during the Pro-Bowl each year.
 
 New rules will be instituted after a year for preparation. So for example, a new rule decided upon during the 2020 offseason will take effect during the 2021-2022 season, and not during the 2020-2021 season.
-
