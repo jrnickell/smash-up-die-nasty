@@ -46,17 +46,17 @@ All players on the owners roster and rookie picks are available for trade. Rooki
 
 ## Scoring
 
-Passing - Passing Yards 0.04 points (1 point per 25 yards); Touchdown Pass 6 points; Interceptions Thrown -4 points; 2pt Passing Conversion 2 points;
+_Passing_ - Passing Yards 0.04 points (1 point per 25 yards); Touchdown Pass 6 points; Interceptions Thrown -4 points; 2pt Passing Conversion 2 points;
 
-Rushing - Rushing Yards 0.1 points (1 point per 10 yards); Touchdown Rush 6 points; 2pt Rushing Conversion 2 points;
+_Rushing_ - Rushing Yards 0.1 points (1 point per 10 yards); Touchdown Rush 6 points; 2pt Rushing Conversion 2 points;
 
-Receiving - Receiving Yards 0.1 points (1 point per 10 yards); Each Reception 1 point; Touchdown Reception 6 points; 2pt Receiving Conversion 2 points;
+_Receiving_ - Receiving Yards 0.1 points (1 point per 10 yards); Each Reception 1 point; Touchdown Reception 6 points; 2pt Receiving Conversion 2 points;
 
-Miscellaneous - Kickoff Return Touchdown 6 points; Punt Return Touchdown 6 points; Fumble Recovered for Touchdown 6 points; Interception Return Touchdown 6 points; Fumble Return Touchdown 6 points; Blocked Punt/FG Return for Touchdown 6 points; 2pt Return 2 points; 1pt Safety 1 point; Fumble Lost -4 points;
+_Miscellaneous_ - Kickoff Return Touchdown 6 points; Punt Return Touchdown 6 points; Fumble Recovered for Touchdown 6 points; Interception Return Touchdown 6 points; Fumble Return Touchdown 6 points; Blocked Punt/FG Return for Touchdown 6 points; 2pt Return 2 points; 1pt Safety 1 point; Fumble Lost -4 points;
 
-Defense: Tackle 1 point; Sack 8 points; Blocked Punt/FG/PAT 8 points; Interception 8 points; Safety 10 points; Fumble Forced 4 points; Fumble Recovered 4 points; Stuff (Tackle for Loss) 4 points; Pass Defended 4 points;
+_Defense_ - Tackle 1 point; Sack 8 points; Blocked Punt/FG/PAT 8 points; Interception 8 points; Safety 10 points; Fumble Forced 4 points; Fumble Recovered 4 points; Stuff (Tackle for Loss) 4 points; Pass Defended 4 points;
 
-Kicking: PAT Made 1 point; FG Missed -1 point; FG Made (0-39 yards) 3 points; FG Made (40-49 yards) 4 points; FG Made (50+ yards) 5 points;
+_Kicking_ - PAT Made 1 point; FG Missed -1 point; FG Made (0-39 yards) 3 points; FG Made (40-49 yards) 4 points; FG Made (50+ yards) 5 points;
 
 ## Commissioner
 
