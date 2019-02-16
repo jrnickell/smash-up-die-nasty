@@ -20,7 +20,7 @@ There will be twelve teams in four divisions. The regular season schedule will b
 
 ## Roster
 
-Each team will use the following starting positions: 1 QB, 2 RB, 2 WR, 1 TE, 1 Flex (RB/WR), 1 DT, 1 DE, 1 LB, 1 DB (CB/S), 1 K. Beyond the 12 starting positions, each team will have 18 bench slots and 3 injured reserve slots. In a dynasty format, the larger total roster size (30) will support player development, so we will not have a separate rookie squad. Most league rosters will exceed the mandated roster limit at the end of the rookie and free agent draft. Each year, after the rookie and free agent draft, owners will be responsible for trimming their roster to make room for their new draft picks at their discretion. If an owner prefers keeping their existing players over any drafted players, those players will be moved to the free agent pool.
+Each team will use the following starting positions: 1 QB, 2 RB, 2 WR, 1 TE, 1 Flex (RB/WR), 1 DT, 1 DE, 1 LB, 1 DB (CB/S), 1 K. Beyond the 12 starting positions, each team will have 18 bench slots and 3 injured reserve slots. In a dynasty format, the larger total roster size (30) will support player development, so we will not have a separate rookie squad. Most league rosters will exceed the mandated roster limit at the end of the rookie and free agent draft. Each year, after the rookie and free agent draft, owners will be responsible for trimming their roster to make room for their new draft picks at their discretion. If an owner prefers keeping their existing players over any drafted players, the unwanted players will be moved to the free agent pool.
 
 ## Drafts
 
