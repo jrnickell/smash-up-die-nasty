@@ -42,10 +42,10 @@ Each team will use the following starting positions:
 1 QB, 2 RB, 2 WR, 1 TE, 1 Flex (RB/WR), 1 DT, 1 DE, 1 LB, 1 DB (CB/S), 1 K.
 Beyond the 12 starting positions, each team will have 18 bench slots and 3 injured reserve slots. In a dynasty format,
 the larger total roster size (30) will support player development, so we will not have a separate rookie squad. Most
-league rosters will exceed the mandated roster limit at the end of the rookie and free agent draft. Each year, after the
-rookie and free agent draft, owners will be responsible for trimming their roster to make room for their new draft picks
-at their discretion. If an owner prefers keeping their existing players over any drafted players, the unwanted players
-will be moved to the free agent pool.
+league rosters will exceed the mandated roster limit at the end of the rookie draft. Each year, after the rookie draft,
+owners will be responsible for trimming their roster to make room for their new draft picks at their discretion. If an
+owner prefers keeping their existing players over any drafted players, the unwanted players will be moved to the free
+agent pool.
 
 ## Drafts
 
@@ -74,10 +74,9 @@ will be available to be drafted during the core draft. For example, instead of p
 the core draft, an owner may choose to select the next available position in the first rookie draft. Picks for the
 four-round 2020 rookie draft will be available for trade.
 
-We will hold a draft gathering each year for the rookie and free agent draft. We will attempt to schedule the draft such
-that the most possible owners can attend. In the event that an owner cannot attend the rookie draft, they can follow the
-draft and make picks in Slack. If that is not possible, they can assign another trusted person (or owner) to act on
-their behalf.
+We will hold a draft gathering each year for the rookie draft. We will attempt to schedule the draft such that the most
+possible owners can attend. In the event that an owner cannot attend the rookie draft, they can follow the draft and
+make picks in Slack. If that is not possible, they can assign another trusted person (or owner) to act on their behalf.
 
 ## Free Agents
 
