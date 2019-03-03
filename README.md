@@ -2,7 +2,7 @@
 
 [Constitution](Constitution.md)
 
-## Commission Committee
+## Commissioner Committee
 
 * John Nickell - Commissioner
 *

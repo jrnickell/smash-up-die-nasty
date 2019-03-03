@@ -56,7 +56,7 @@ their own player ranking cheat-sheets, and do their own research. Owners can, at
 regarding the draft in Slack. That includes trading draft picks, helping others, and good natured trash talking. To make
 a selection during the core draft, notify the commissioner via email, direct Slack message, or in a channel. The
 commissioner will announce the selection and notify the owner who is on the clock. If an owner fails to make a selection
-within 24 hours, they will lose the pick in that round and will get a chance to select again at the end of the draft.
+within 24 hours, they will lose the pick in that round and will get a chance to select again in the following round.
 
 Draft positions will be randomized, with at least two owners as witnesses of the random order selection. The picks will
 be made in a snake fashion, such that the owner with the first pick in the first round will have the last pick in the
