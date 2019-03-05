@@ -40,12 +40,32 @@ weeks 13-14 of the NFL season. The championship round will occur during weeks 15
 
 Each team will use the following starting positions:
 1 QB, 2 RB, 2 WR, 1 TE, 1 Flex (RB/WR), 1 DT, 1 DE, 1 LB, 1 DB (CB/S), 1 K.
-Beyond the 12 starting positions, each team will have 18 bench slots and 3 injured reserve slots. In a dynasty format,
-the larger total roster size (30) will support player development, so we will not have a separate rookie squad. Most
-league rosters will exceed the mandated roster limit at the end of the rookie draft. Each year, after the rookie draft,
-owners will be responsible for trimming their roster to make room for their new draft picks at their discretion. If an
-owner prefers keeping their existing players over any drafted players, the unwanted players will be moved to the free
-agent pool.
+Beyond the 12 starting positions, each team will have 18 bench slots and 3 injured reserve slots. Most league rosters
+will exceed the mandated roster limit at the end of the rookie draft. Each year, after the rookie draft, owners will be
+responsible for trimming their roster to make room for their new draft picks at their discretion. Owners may add draft
+picks to their taxi squad if space is available. If an owner prefers keeping their existing players over any drafted
+players, the unwanted players will be moved to the free agent pool.
+
+## Taxi Squad
+
+Starting with the 2020 season, each team will have a taxi squad available with a maximum of five players at any given
+time. The only players that can be assigned to a taxi squad are drafted rookies that have never been placed on an active
+roster. Once a player on the taxi squad finishes a season in the top 30 points scored at their position, they must be
+added to the owning team's active roster, or dropped to the free agent pool at the start of the following season.
+
+The maximum amount of time a player may remain on a taxi squad is three years.
+
+An owner may attempt to "raid" the taxi squad of an opposing team. When attempting to get another team's taxi squad
+player, the raiding owner must provide a draft pick that is one round higher than where the raided player was drafted.
+
+For example, Team A drafts a player in the third round and places him on the taxi squad. Team B wants to raid the
+player. Team B must provide a second round pick in the following draft as compensation for the player.
+
+If the raided player was a first round pick, the compensation will be two first round picks, since there is not a higher
+round to offer.
+
+A team's attempt to raid a taxi squad player may be blocked if the original owner decides to move the player to his
+active roster.
 
 ## Drafts
 
