@@ -5,5 +5,5 @@
 ## Commissioner Committee
 
 * John Nickell - Commissioner
-*
+* Kevin Searle - Co-Commissioner
 *
