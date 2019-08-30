@@ -40,11 +40,7 @@ configuration may change to facilitate the move to the Sleeper app.
 
 Each team will use the following starting positions in year one:
 1 QB, 2 RB, 2 WR, 1 TE, 1 Flex (RB/WR), 1 DT, 1 DE, 1 LB, 1 DB (CB/S), 1 K.
-Beyond the 12 starting positions, each team will have 18 bench slots and 3 injured reserve slots. Most league rosters
-will exceed the mandated roster limit at the end of the rookie draft. Each year, after the rookie draft, owners will be
-responsible for trimming their roster to make room for their new draft picks at their discretion. Owners may add draft
-picks to their taxi squad if space is available. If an owner prefers keeping their existing players over any drafted
-players, the unwanted players will be moved to the free agent pool.
+Beyond the 12 starting positions, each team will have 18 bench slots and 3 injured reserve slots.
 
 We will be moving to the Sleeper app in year two. At that time, we will expand the roster:
 1 QB, 2 RB, 2 WR, 1 TE, 1 Flex (RB/WR), 1 DT, 1 DE, 2 LB, 1 DB (CB/S), 1 K.
@@ -54,9 +50,9 @@ expand to 10 (or maximum allowed) slots the following year.
 
 ## Taxi Squad
 
-Starting with the 2020 season, each team will have a taxi squad available with a maximum of five players at any given
-time. The only players that can be assigned to a taxi squad are rookies. The maximum amount of time a player may remain
-on a taxi squad is three years. Any remaining taxi squad rules will be set according to what the Sleeper app supports.
+Starting with the 2020 season, each team will have a taxi squad available. The only players that can be assigned to a
+taxi squad are rookies. The maximum amount of time a player may remain on a taxi squad is three years. Any remaining
+taxi squad rules will be set according to what the Sleeper app supports.
 
 ## Drafts
 
