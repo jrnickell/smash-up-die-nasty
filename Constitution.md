@@ -20,7 +20,7 @@ especially if another trade offer is awaiting a reply. This respect should be re
 someone says "no", they are "busy", or "not interested in trading" at the time please respect those answers. If an owner
 is removed from the league for any violation of league rules or by his/her own choice, the commissioner will take charge
 of that team until a replacement owner is found and approved. The commissioner/co-commissioners will not perform any
-transactions on behalf of the abandoned team and the lineup will be entered based on optimal ESPN projections.
+trades on behalf of the abandoned team and the lineup will be entered based on optimal host application projections.
 
 ## Teams
 
@@ -31,14 +31,14 @@ be made on a individual basis.
 
 ## Schedule
 
-There will be twelve teams in four divisions. The regular season schedule will be 12 weeks long. During the regular
-season, ties are a possible matchup outcome. Four teams will be selected for the playoffs by the host application, with
-the playoff seeding tiebreaker decided by total regular season points. The first round of the playoffs will occur during
-weeks 13-14 of the NFL season. The championship round will occur during weeks 15-16 of the NFL season.
+There will be twelve teams in four divisions. The schedule will follow whatever is best supported by the host
+application. Four teams will be selected for the playoffs by the host application the first year.
+We will not use week 17, as most starting NFL players in playoff teams do not play that week. In year two, the playoff
+configuration may change to facilitate the move to the Sleeper app.
 
 ## Roster
 
-Each team will use the following starting positions:
+Each team will use the following starting positions in year one:
 1 QB, 2 RB, 2 WR, 1 TE, 1 Flex (RB/WR), 1 DT, 1 DE, 1 LB, 1 DB (CB/S), 1 K.
 Beyond the 12 starting positions, each team will have 18 bench slots and 3 injured reserve slots. Most league rosters
 will exceed the mandated roster limit at the end of the rookie draft. Each year, after the rookie draft, owners will be
@@ -46,26 +46,17 @@ responsible for trimming their roster to make room for their new draft picks at 
 picks to their taxi squad if space is available. If an owner prefers keeping their existing players over any drafted
 players, the unwanted players will be moved to the free agent pool.
 
+We will be moving to the Sleeper app in year two. At that time, we will expand the roster:
+1 QB, 2 RB, 2 WR, 1 TE, 1 Flex (RB/WR), 1 DT, 1 DE, 2 LB, 1 DB (CB/S), 1 K.
+Beyond the 13 starting positions, each time will have 19 bench slots the 3 injured reserve slots. We will allow the
+rookie draft and new taxi squad rules to be managed by the host application. We will start with 5 taxi squad slots and
+expand to 10 (or maximum allowed) slots the following year.
+
 ## Taxi Squad
 
 Starting with the 2020 season, each team will have a taxi squad available with a maximum of five players at any given
-time. The only players that can be assigned to a taxi squad are drafted rookies that have never been placed on an active
-roster. Once a player on the taxi squad finishes a season in the top 30 points scored at their position, they must be
-added to the owning team's active roster, or dropped to the free agent pool at the start of the following season.
-
-The maximum amount of time a player may remain on a taxi squad is three years.
-
-An owner may attempt to "raid" the taxi squad of an opposing team. When attempting to get another team's taxi squad
-player, the raiding owner must provide a draft pick that is one round higher than where the raided player was drafted.
-
-For example, Team A drafts a player in the third round and places him on the taxi squad. Team B wants to raid the
-player. Team B must provide a second round pick in the following draft as compensation for the player.
-
-If the raided player was a first round pick, the compensation will be two first round picks, since there is not a higher
-round to offer.
-
-A team's attempt to raid a taxi squad player may be blocked if the original owner decides to move the player to his
-active roster.
+time. The only players that can be assigned to a taxi squad are rookies. The maximum amount of time a player may remain
+on a taxi squad is three years. Any remaining taxi squad rules will be set according to what the Sleeper app supports.
 
 ## Drafts
 
@@ -83,11 +74,12 @@ be made in a snake fashion, such that the owner with the first pick in the first
 second round, etc. Owners may trade their entire core draft position with another owner, if desired, after the order is
 set.
 
-Starting with the second season, rookie draft picks will be awarded based on each team's regular season record. The last
-placed team will receive the first pick in each round, etc. The draft will be a traditional NFL style draft, where the
-order is set and followed in each round (not a snake draft). Each team is awarded a selection in each of four rounds
-based on their record. Exceptions include league sanctions and compensatory picks, which may be added or removed at the
-discretion of the league commissioner-committee.
+Starting with the second season, rookie draft picks will be awarded based on playoff finish for playoff teams.
+Non-playoff teams will be ordered according to "least potential points". So, the team that had the actual worst players
+rostered will receive the first overall pick, and so on. The draft will be a traditional NFL style draft, where the
+order is set and followed in each round (not a snake draft). Each team is awarded a selection in each of four rounds.
+Exceptions include league sanctions and compensatory picks, which may be added or removed at the discretion of the
+league commissioner-committee.
 
 Trading core draft picks, players, and future draft picks is allowed during the draft. Picks for the 2019 rookie draft
 will be available to be drafted during the core draft. For example, instead of picking a player during a selection of
@@ -102,7 +94,8 @@ make picks in Slack. If that is not possible, they can assign another trusted pe
 
 All unselected players will be available for blind bidding using the owner's Free Agent Auction Budget. Each owner will
 receive 1000 credits in the host application to place bids on available players. Waivers will process every week on
-Wednesday and Saturday.
+Wednesday and Saturday the first year. After the move to Sleeper, the FAAB will be implemented according to what is
+supported by the platform.
 
 ## Trades
 
@@ -114,10 +107,11 @@ trade. Owners are encouraged to post on the league Slack in order to explain and
 
 Future draft picks may only be traded for the current and following year, starting with the NFL Super Bowl. So after the
 Super Bowl in early 2020, you will be able to trade draft picks for the 2021 draft and you would already have access to
-the picks for the 2020 draft.
+the picks for the 2020 draft. After the move to Sleeper, draft picks that are available to trade within the platform may
+be traded.
 
 All players on the owners roster and rookie picks are available for trade. Rookie picks will be tracked by the
-commissioner in a shared document online.
+commissioner in a shared document online the first year, and within the Sleeper app after the move.
 
 ## Scoring
 
