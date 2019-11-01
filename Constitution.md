@@ -34,7 +34,9 @@ be made on a individual basis.
 There will be twelve teams in four divisions. The schedule will follow whatever is best supported by the host
 application. Four teams will be selected for the playoffs by the host application the first year.
 We will not use week 17, as most starting NFL players in playoff teams do not play that week. In year two, the playoff
-configuration may change to facilitate the move to the Sleeper app.
+configuration will change to facilitate the move to the Sleeper app. We will, starting in year two, have six playoff
+teams. We will still not use week 17 for the playoffs. The exact playoff configuration will be whatever is supported by
+the platform.
 
 ## Roster
 
@@ -73,7 +75,7 @@ set.
 Starting with the second season, rookie draft picks will be awarded based on playoff finish for playoff teams.
 Non-playoff teams will be ordered according to "least potential points". So, the team that had the actual worst players
 rostered will receive the first overall pick, and so on. The draft will be a traditional NFL style draft, where the
-order is set and followed in each round (not a snake draft). Each team is awarded a selection in each of four rounds.
+order is set and followed in each round (not a snake draft). Each team is awarded a selection in each of five rounds.
 Exceptions include league sanctions and compensatory picks, which may be added or removed at the discretion of the
 league commissioner-committee.
 
@@ -90,8 +92,8 @@ make picks in Slack. If that is not possible, they can assign another trusted pe
 
 All unselected players will be available for blind bidding using the owner's Free Agent Auction Budget. Each owner will
 receive 1000 credits in the host application to place bids on available players. Waivers will process every week on
-Wednesday and Saturday the first year. After the move to Sleeper, the FAAB will be implemented according to what is
-supported by the platform.
+Wednesday and Saturday the first year. After the move to Sleeper, the FAAB will be $100 and $0 bids will be allowed.
+This should make it easier to think of your FAAB budget in terms of percentage.
 
 ## Trades
 
@@ -189,7 +191,8 @@ The role of the Commissioners are to:
 ## Rule Changes
 
 Rule changes can be proposed at any time, by anyone. Rule changes will only be voted on during the off-season and must
-have a majority (7 votes) to pass. Rule change discussions will be discussed during the Pro-Bowl each year.
+have a majority (7 votes) to pass. Rule change discussions will be discussed during the rookie draft each year.
 
-New rules will be instituted after a year for preparation. So for example, a new rule decided upon during the 2020
-offseason will take effect during the 2021-2022 season, and not during the 2020-2021 season.
+Most new rules will be instituted after a year for preparation. So for example, a new rule decided upon during the 2020
+offseason will take effect during the 2021-2022 season, and not during the 2020-2021 season. Exceptions can be made
+where it doesn't make sense to wait a year.
