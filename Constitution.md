@@ -91,9 +91,11 @@ make picks in Slack. If that is not possible, they can assign another trusted pe
 ## Free Agents
 
 All unselected players will be available for blind bidding using the owner's Free Agent Auction Budget. Each owner will
-receive 1000 credits in the host application to place bids on available players. Waivers will process every week on
-Wednesday and Saturday the first year. After the move to Sleeper, the FAAB will be $100 and $0 bids will be allowed.
-This should make it easier to think of your FAAB budget in terms of percentage.
+receive 1000 credits in the host application to place bids on available players. Waivers will process every day from
+Wednesday to Sunday, starting no earlier than Wednesday at 12:00am and ending no later than Sunday at 10:00am. The
+waiver process time will be 10:00am on the ESPN app (the first year) and might be adjusted to run at midnight on the
+Sleeper app. After the move to Sleeper, the FAAB will be $100 and $0 bids will be allowed. This should make it easier
+to think of your FAAB budget in terms of percentage.
 
 ## Trades
 
