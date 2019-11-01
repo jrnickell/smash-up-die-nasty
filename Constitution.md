@@ -82,7 +82,7 @@ league commissioner-committee.
 Trading core draft picks, players, and future draft picks is allowed during the draft. Picks for the 2019 rookie draft
 will be available to be drafted during the core draft. For example, instead of picking a player during a selection of
 the core draft, an owner may choose to select the next available position in the first rookie draft. Picks for the
-four-round 2020 rookie draft will be available for trade.
+five-round 2020 rookie draft will be available for trade.
 
 We will hold a draft gathering each year for the rookie draft. We will attempt to schedule the draft such that the most
 possible owners can attend. In the event that an owner cannot attend the rookie draft, they can follow the draft and
